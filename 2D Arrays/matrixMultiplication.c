@@ -25,7 +25,7 @@ int main()
         {
             for (int j = 0; j < col2; j++)
             {
-                printf("Enter the element at index [%d][%d]: ", i, j);
+                printf("Enter the element at index [%d][%d]: ", i, j);  
                 scanf("%d", &arr2[i][j]);
             }
         }
